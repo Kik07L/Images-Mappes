@@ -1,2 +1,2 @@
 # Images-Mappes
- arranges images by clarity, amount of information displayed: on a map
+ arranges images by clarity and amount of information displayed: on a map
